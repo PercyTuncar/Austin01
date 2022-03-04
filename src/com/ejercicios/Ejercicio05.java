@@ -34,4 +34,4 @@ public class Ejercicio05{
             System.out.println("La fecha no es correcta");
         }
     }
-}   // fin de la clase Ejercicio05
+}
